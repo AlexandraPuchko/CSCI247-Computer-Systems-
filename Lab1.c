@@ -1,8 +1,8 @@
 /*
 *  Lab1.c
-*  CSCI 247, Lab exercise 1, Summer, 2017
+*  CSCI 247, Lab exercise 1, Fall 2017
 *
-* Alexandra Puchko , Fall 2017
+* Alexandra Puchko 
 *
 */
 #include <stdio.h>
