@@ -4,6 +4,7 @@
  *     evictions.  The replacement policy is LRU.
  *
  *  Used for Lab Exercise 8, CSCI 247, Fall 2017
+ *  Author: Alexandra Puchko
  *
  * Implementation and assumptions:
  *  1. Each load/store can cause at most one cache miss. (I examined the trace,
