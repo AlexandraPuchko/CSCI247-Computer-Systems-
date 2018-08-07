@@ -2,7 +2,7 @@
 *  Lab1.c
 *  CSCI 247, Lab exercise 1, Summer, 2017
 *
-*  David Bover, June, 2017
+* Alexandra Puchko , Fall 2017
 *
 */
 #include <stdio.h>
