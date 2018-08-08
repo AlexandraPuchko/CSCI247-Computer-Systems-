@@ -5,7 +5,7 @@
  *
  * used for CSCI 247, Assignment 3, Fall 2017
  *
- * David Bover, WWU, November 2017
+ * Alexandra Puchko , WWU, November 2017
  *
  */
 
